@@ -1,0 +1,13 @@
+C:\Users\GREAT\Desktop\C# Classes\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\GREAT\Desktop\C# Classes\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\GREAT\Desktop\C# Classes\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\GREAT\Desktop\C# Classes\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\GREAT\Desktop\C# Classes\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\GREAT\Desktop\C# Classes\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\GREAT\Desktop\C# Classes\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\Users\GREAT\Desktop\C# Classes\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\GREAT\Desktop\C# Classes\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\GREAT\Desktop\C# Classes\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\GREAT\Desktop\C# Classes\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\GREAT\Desktop\C# Classes\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\GREAT\Desktop\C# Classes\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
